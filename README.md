@@ -1,16 +1,9 @@
 # quote_app
 
-A new Flutter project.
+![tomorrow will be wonderful](https://user-images.githubusercontent.com/102135008/233474282-059e81e7-60cf-4829-8ef1-cd5e7fbbf939.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#video
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/102135008/233473844-1427b678-5a14-4b0b-aa74-786374a3d030.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
